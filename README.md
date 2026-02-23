@@ -1,5 +1,6 @@
 I secured rank 15 in NK Securities Research Hackathon 2025, This is a repo of my work during the hackathon.
 
+Leaderboard: https://www.kaggle.com/competitions/nk-iv-prediction/leaderboard
 Dataset: https://www.kaggle.com/datasets/vamshikrishnaemmadi/nk-securities-quant-hackathon-2025-dataset 
 
 Please use the following as a guide in case of any confusion:
